@@ -1,4 +1,4 @@
-# tic-tac-toe-project-
+# tic-tac-toe-
 THIS IS MY FIRST PROJECT WITH PYTHON 
 
 ## 🔗 Links
@@ -8,7 +8,7 @@ THIS IS MY FIRST PROJECT WITH PYTHON
 
 
 ## 🛠 Skills
-Javascript, HTML, python, github ...
+ python 3.10  , github ...
 
 
 
